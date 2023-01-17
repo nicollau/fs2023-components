@@ -1,0 +1,13 @@
+body{
+    background-color:rgb(125, 143, 108);
+}
+
+button{
+    background-color:antiquewhite;
+    border-radius:0;
+}
+
+body, button{
+    font-family:Georgia;
+}
+
